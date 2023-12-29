@@ -5,6 +5,9 @@
 🌱 I’m currently learning Full-Stack Web Development
 
 😎 Follow me on: [LinkedIn](https://www.linkedin.com/in/danynurf)
+
+anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats
 <!--
 **danynurf/danynurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
