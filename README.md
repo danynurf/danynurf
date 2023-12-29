@@ -7,7 +7,7 @@
 😎 Follow me on: [LinkedIn](https://www.linkedin.com/in/danynurf)
 
 <a href="https://github.com/danynurf/github-readme-stats">
-  <img height=200 margin-bottom="5px" align="center" src="https://github-readme-stats.vercel.app/api?username=danynurf&show_icons=true&theme=radical" />
+  <img height=200 margin-bottom=5 align="center" src="https://github-readme-stats.vercel.app/api?username=danynurf&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/danynurf/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danynurf&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
