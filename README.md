@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/danynurf/convoychat">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danynurf&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danynurf&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
 <!--
 **danynurf/danynurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
