@@ -6,13 +6,10 @@
 
 😎 Follow me on: [LinkedIn](https://www.linkedin.com/in/danynurf)
 
-![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=danynurf&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/danynurf/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danynurf&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/danynurf/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danynurf&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
 <!--
