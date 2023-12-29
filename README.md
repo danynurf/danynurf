@@ -6,7 +6,7 @@
 
 😎 Follow me on: [LinkedIn](https://www.linkedin.com/in/danynurf)
 
-[![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=danynurf)](https://github.com/danynurf/github-readme-stats)
+![Dany's GitHub stats](https://github-readme-stats.vercel.app/api?username=danynurf&show_icons=true&theme=onedark)
 <!--
 **danynurf/danynurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
